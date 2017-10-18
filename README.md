@@ -1,3 +1,3 @@
 # excel-vba
 
-some vba code used in various projects
+vba code snipplets used in various projects
